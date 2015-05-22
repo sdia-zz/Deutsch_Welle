@@ -1,4 +1,4 @@
-# dw_deutsch_warum_nicht
+# Deutsch Welle german courses
 
 Download media from **Deutsch Welle** (www.dw.de). For example:
 ["Deutsch - warum nicht
